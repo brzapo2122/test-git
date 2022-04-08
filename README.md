@@ -19,3 +19,7 @@ I una mica de codi `html`:
 ```html
 <html><body></body></html>
 ```
+
+# I ara, un gato
+
+![Foto d´un gat](./gato.jpeg)
